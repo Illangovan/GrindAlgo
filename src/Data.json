@@ -1,0 +1,232 @@
+{
+    "array":[
+         {
+           "problem":"Two Sum",
+           "solve":"https://leetcode.com/problems/two-sum/"
+         },
+         {
+           "problem":"Best Time to Buy and Sell Stock",
+           "solve":"https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+         },
+         {
+          "problem":"Contains Duplicate",
+          "solve":"https://leetcode.com/problems/contains-duplicate/"
+        },
+        {
+          "problem":"Product of Array Except Self",
+          "solve":"https://leetcode.com/problems/product-of-array-except-self/"
+        },
+        {
+          "problem":"Maximum Subarray",
+          "solve":"https://leetcode.com/problems/maximum-subarray/"
+        },
+        {
+          "problem":"Maximum Product Subarray",
+          "solve":"https://leetcode.com/problems/maximum-product-subarray/"
+        },
+        {
+         "problem":"Find Minimum in Rotated Sorted Array",
+         "solve":"https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+       },
+       {
+         "problem":"Search in Rotated Sorted Array",
+         "solve":"https://leetcode.com/problems/search-in-rotated-sorted-array/"
+       },
+       {
+        "problem":"3 Sum",
+        "solve":"https://leetcode.com/problems/3sum/"
+      },
+       {
+        "problem":"Container With Most Water",
+        "solve":"https://leetcode.com/problems/container-with-most-water/"
+      }
+           ],
+    "bits":[
+        {
+            "problem":"Sum of Two Integers",
+            "solve":"https://leetcode.com/problems/sum-of-two-integers/"
+          },
+          {
+            "problem":"Number of 1 Bits",
+            "solve":"https://leetcode.com/problems/number-of-1-bits/"
+          },
+          {
+            "problem":"Counting Bits",
+            "solve":"https://leetcode.com/problems/counting-bits/"
+          },
+          {
+            "problem":"Missing Number",
+            "solve":"https://leetcode.com/problems/missing-number/"
+          },
+          {
+            "problem":"Reverse Bits",
+            "solve":"https://leetcode.com/problems/reverse-bits/"
+          }
+
+          ],
+    "matrix":[
+      {
+        "problem":"Set Matrix Zeroes",
+        "solve":"https://leetcode.com/problems/set-matrix-zeroes/"
+      },
+      {
+        "problem":"Spiral Matrix",
+        "solve":"https://leetcode.com/problems/spiral-matrix/"
+      },
+      {
+        "problem":"Rotate Image",
+        "solve":"https://leetcode.com/problems/rotate-image/"
+      },
+      {
+        "problem":"Word Search",
+        "solve":"https://leetcode.com/problems/word-search/"
+      }
+             ],
+      "string":[
+        {
+          "problem":"Longest Substring Without Repeating Characters",
+          "solve":"https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+        },
+        {
+          "problem":"Longest Repeating Character Replacement",
+          "solve":"https://leetcode.com/problems/longest-repeating-character-replacement/"
+        },
+        {
+         "problem":"Minimum Window Substring",
+         "solve":"https://leetcode.com/problems/minimum-window-substring/"
+       },
+       {
+         "problem":"Valid Anagram",
+         "solve":"https://leetcode.com/problems/valid-anagram/"
+       },
+       {
+         "problem":"Group Anagrams",
+         "solve":"https://leetcode.com/problems/group-anagrams/"
+       },
+       {
+         "problem":"Valid Parentheses",
+         "solve":"https://leetcode.com/problems/valid-parentheses/"
+       },
+       {
+        "problem":"Valid Palindrome",
+        "solve":"https://leetcode.com/problems/valid-palindrome/"
+      },
+      {
+       "problem":"Longest Palindromic Substring",
+       "solve":"https://leetcode.com/problems/longest-palindromic-substring/"
+     },
+     {
+       "problem":"Palindromic Substrings",
+       "solve":"https://leetcode.com/problems/palindromic-substrings/"
+     }
+      ],
+      "dp":[
+        {
+          "problem":"Climbing Stairs",
+          "solve":"https://leetcode.com/problems/climbing-stairs/"
+        },
+        {
+          "problem":"Coin Change",
+          "solve":"https://leetcode.com/problems/coin-change/"
+        },
+        {
+         "problem":"Longest Increasing Subsequence",
+         "solve":"https://leetcode.com/problems/longest-increasing-subsequence/"
+       },
+       {
+         "problem":"Longest Common Subsequence",
+         "solve":"https://leetcode.com/problems/longest-common-subsequence/"
+       },
+       {
+         "problem":"Word Break Problem",
+         "solve":"https://leetcode.com/problems/word-break/"
+       },
+       {
+         "problem":"Combination Sum",
+         "solve":"https://leetcode.com/problems/combination-sum-iv/"
+       },
+       {
+        "problem":"House Robber",
+        "solve":"https://leetcode.com/problems/house-robber/"
+      },
+      {
+       "problem":"House Robber II",
+       "solve":"https://leetcode.com/problems/house-robber-ii/"
+     },
+     {
+       "problem":"Decode Ways",
+       "solve":"https://leetcode.com/problems/decode-ways/"
+     },
+     {
+       "problem":"Unique Paths",
+       "solve":"https://leetcode.com/problems/unique-paths/"
+     },
+     {
+       "problem":"Jump Game",
+       "solve":"https://leetcode.com/problems/jump-game/"
+     }
+
+      ],
+      "tree":[
+        {
+          "problem":"Maximum Depth of Binary Tree",
+          "solve":"https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+        },
+        {
+          "problem":"Same Tree",
+          "solve":"https://leetcode.com/problems/same-tree/"
+        },
+        {
+         "problem":"Invert/Flip Binary Tree",
+         "solve":"https://leetcode.com/problems/invert-binary-tree/"
+       },
+       {
+         "problem":"Binary Tree Maximum Path Sum",
+         "solve":"https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+       },
+       {
+         "problem":"Binary Tree Level Order Traversal",
+         "solve":"https://leetcode.com/problems/binary-tree-level-order-traversal/"
+       },
+       {
+         "problem":"Serialize and Deserialize Binary Tree",
+         "solve":"https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+       },
+       {
+        "problem":"Subtree of Another Tree",
+        "solve":"https://leetcode.com/problems/subtree-of-another-tree/"
+      },
+      {
+       "problem":"Construct Binary Tree from Preorder and Inorder Traversal",
+       "solve":"https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+     },
+     {
+       "problem":"Validate Binary Search Tree",
+       "solve":"https://leetcode.com/problems/validate-binary-search-tree/"
+     },
+     {
+       "problem":"Kth Smallest Element in a BST",
+       "solve":"https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+     },
+     {
+       "problem":"Lowest Common Ancestor of BST",
+       "solve":"https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+     },
+     {
+      "problem":"Implement Trie (Prefix Tree)",
+      "solve":"https://leetcode.com/problems/implement-trie-prefix-tree/"
+    },
+    {
+      "problem":"Add and Search Word",
+      "solve":"https://leetcode.com/problems/add-and-search-word-data-structure-design/"
+    },
+    {
+      "problem":"Word Search II",
+      "solve":"https://leetcode.com/problems/word-search-ii/"
+    }
+
+      ],
+      "graph":[
+
+      ]
+}
