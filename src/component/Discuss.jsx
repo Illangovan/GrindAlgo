@@ -2,7 +2,9 @@ import React from 'react'
 
 function Discuss() {
   return (
-    <div>Discuss</div>
+    <>
+    <h1>Discuss</h1>
+    </>
   )
 }
 

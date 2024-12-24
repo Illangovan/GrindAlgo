@@ -1,16 +1,19 @@
 import React from 'react'
 import '../styles/Menubar.css'
+import { Link, Outlet } from 'react-router'
 function Menubar() {
   return (
     <>
     <div className="menu_container">
         <h1>Grind<span>75</span></h1>
         <ul>
-            <li><a href="#">Problems</a></li>
-            <li><a href="#">System design</a></li>
-            <li><a href="#">Discuss</a></li>
+            <Link to='/'></Link>
+            <Link  className='Link' to='/problems'>Problems</Link>
+            <Link className='Link' to='/systemdesign'>System design</Link>
+            <Link className='Link' to='discuss'>Discuss</Link>
         </ul>
     </div>
+    <Outlet/>
     </>
   )
 }

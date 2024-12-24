@@ -3,10 +3,10 @@
     flex-direction: row;
     gap: 6rem;
     width: 100%;
-    height: 5rem;
+    height: 4rem;
     align-items: center;
-    background-color: #FAFAFA;
-    color:red;
+   background-color: #FAFAFA; 
+    color:#FF0000;
 }
 .menu_container ul{
     display: flex;
@@ -15,22 +15,44 @@
     position: relative;
     left: 7rem;
     gap: 1rem;
+    font-size: 1.6rem;
 }
-.menu_container li{
-        font-size:1.5rem;
-        list-style: none;
+.Link{
+    text-decoration: none;
+    color: black;
 }
-
-.menu_container a{
-          
-          text-decoration: none;
-}
-
 .menu_container h1{
     left: 2rem;
     position: relative;
 }
 .menu_container span{
     color: black;
+}
+
+@media(max-width:768px)
+{
+    .menu_container{
+        display: flex;
+        flex-direction:column;
+        gap: 2rem;
+        width: 100%;
+        height: fit-content;
+       background-color: #FAFAFA; 
+        color:#FF0000;
+    }
+    .menu_container ul{
+        visibility: hidden;
+        display: flex;
+        flex-direction:column;
+        text-align: center;
+        text-decoration: none;
+        gap: 1rem;
+        font-size: 1.6rem;
+    }
+
+    .menu_container h1{
+        left:0;
+        position: relative;
+    }
 }
 
