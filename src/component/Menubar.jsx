@@ -5,7 +5,7 @@ function Menubar() {
   return (
     <>
     <div className="menu_container">
-        <h1>Grind<span>75</span></h1>
+        <h1>Grind<span>Algo</span></h1>
         <ul>
             <Link to='/'></Link>
             <Link  className='Link' to='/problems'>Problems</Link>
