@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/Menubar.css'
-import { Link, Outlet } from 'react-router'
+import { Link, Outlet } from 'react-router-dom'
 function Menubar() {
   return (
     <>

@@ -4,7 +4,7 @@ import Problems from './component/Problems'
 import Systemdesign from './component/Systemdesign'
 import Discuss from './component/Discuss'
 import Home from './component/Home'
-import { BrowserRouter as Router,Routes,Route, Link } from 'react-router'
+import { BrowserRouter as Router,Routes,Route, Link } from 'react-router-dom'
 import './App.css'
 function App() {
   return (
