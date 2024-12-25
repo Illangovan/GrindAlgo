@@ -5,10 +5,36 @@
     background-color: black;
     color: white;
 }
-
 .home_description{
+        height: 25rem;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        gap:1rem;
+        padding: 0 1rem;
+}
+
+.home_description h1{
+    font-size: 3.125rem;
+}
+.home_description a{
+    text-decoration: none;
+    font-size:1.8rem;
+    color: white;
+}
+.home_description button{
+    width: 15rem;
+    height: 2.5rem;
+    border-radius:10px;
+    background-color: #E11D48;
+    border: 0;
+}
+
+@media (max-width:600px)
+{
+    
+.home_description h1{
+    font-size: 1.625rem;
+}
 }

@@ -6,7 +6,7 @@
     height: 4rem;
     align-items: center;
    background-color: #FAFAFA; 
-    color:#FF0000;
+    color:#E11D48;
 }
 .menu_container ul{
     display: flex;
@@ -37,7 +37,7 @@
         flex-direction:column;
         gap: 2rem;
         width: 100%;
-        height: fit-content;
+        height:3rem;
        background-color: #FAFAFA; 
         color:#FF0000;
     }
