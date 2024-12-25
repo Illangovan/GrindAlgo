@@ -7,9 +7,9 @@ function Menubar() {
     <div className="menu_container">
         <h1>Grind<span>Algo</span></h1>
         <ul>
-            <Link to='/'></Link>
+            <Link className='Link' to='/'>Home</Link>
             <Link  className='Link' to='/problems'>Problems</Link>
-            <Link className='Link' to='/systemdesign'>System design</Link>
+            <Link className='Link' to='/systemdesign'>System Design</Link>
             <Link className='Link' to='discuss'>Discuss</Link>
         </ul>
     </div>
