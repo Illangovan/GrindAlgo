@@ -5,33 +5,60 @@
     color: white;
 }
 .home_description{
-        height: 50rem;
+        width: 100%;
+        height: 40rem;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        gap:1rem;
-        padding: 0 1rem;
+        gap:1.5rem;
 }
 
 .home_description h1{
     font-size: 3.125rem;
     color: #F3F3F3EA;
-    background-color: black;
 }
 
 .home_description p{
-    width: 40rem;
+    width: 45rem;
     text-align: center;
     font-size: 1.5rem;
     color: #7A7A7A;
-    background-color: black;
 }
-.home_description a{
-    text-decoration: none;
-    font-size:1.8rem;
+.home_description button{
+    width: 23rem;
+    height: 3rem;
+    border-radius:10px;
     color: white;
+    font-size: 1.8rem;
+    background-color: #E11D48;
+    border: 0;
 }
+
+@media (max-width:768px)
+{
+
+.home_description{
+        height: 30rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap:1.rem;
+        
+}
+.home_description h1{
+    font-size: 1.625rem;
+    text-align: center;
+}
+
+.home_description p{
+    width: 100%;
+    text-align: center;
+    font-size:0.8rem;
+    color: #7A7A7A;
+}
+
 .home_description button{
     width: 15rem;
     height: 2.5rem;
@@ -40,35 +67,4 @@
     border: 0;
 }
 
-@media (max-width:768px)
-{
-    .home
-{
-    width: 100%;
-    background-color: black;
-    color: white;
-    padding: 0;
-    margin: 0;
-}
-.home_description{
-        height: 30rem;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        gap:1rem;
-        padding: 0 1rem;
-        
-}
-.home_description h1{
-    text-align: center;
-    font-size: 1.625rem;
-}
-
-.home_description p{
-    width: 15rem;
-    text-align: center;
-    font-size:0.8rem;
-    color: #7A7A7A;
-}
 }

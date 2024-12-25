@@ -6,8 +6,8 @@ function Home() {
     <div className='home'>
         <div className="home_description">
           <h1>DSA and System Design Practice Arena!</h1>
-          <p>Learn DSA and System design systematically. Practice LeetCode problems grouped by patterns. Ace your coding interviews.</p>
-          <button><Link to='/Problems'>Start Practising</Link></button>
+          <p>Learn Data Structures and Algorithms systematically. Practice LeetCode problems grouped by patterns. Ace your coding interviews.</p>
+          <Link to='/Problems'><button>Start Practising</button></Link>
         </div>
     </div>
   )
