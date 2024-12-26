@@ -13,9 +13,9 @@ function Home() {
         <div className='features'>
           <h1>Key Features</h1>
           <div className="cards">
-          <Cards />
-          <Cards/>
-          <Cards/>
+          <Cards id1={true} heading="Free Access" description="Access the entire feature including problems, solutions, and resources completely free."/>
+          <Cards id2={true} heading="Structure Learning" description="Follow curated problem sets tailored to your preparation time, whether you have over three months or less than a month."/>
+          <Cards  heading="Pattern  Recognition" description="Develop your problem-solving intuition by learning to recognize common patterns across different coding problems."/>
           </div>
           
         </div>
