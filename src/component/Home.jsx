@@ -19,6 +19,7 @@ function Home() {
           </div>
           
         </div>
+        <h1>Meet the Creator</h1>
     </div>
   )
 }
